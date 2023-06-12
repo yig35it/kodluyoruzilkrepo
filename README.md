@@ -5,6 +5,8 @@
 # Installation
 >Öncelikle projeyi clonelayın(buraya sizin reponuzdan aldığınız link gelecek)
 ```
+Link:
+[Yazi](https://github.com/yig35it/kodluyoruzilkrepo/blob/main/README.md)
 ```
 *** Değişiklikler yapıldı 
 ```
