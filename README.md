@@ -1,5 +1,6 @@
 # KODLUYORUZ İLK REPO
-> Bu repo kodluyoruz front- end eğitiminde oluşturduğumuz ilk repo ,içerisinde bir adet README dosyası bir adet de index.html barındırıyor 
+ Bu repo [Kodluyoruz](https://kodluyoruz.org/)
+ front- end eğitiminde oluşturduğumuz ilk repo ,içerisinde bir adet README dosyası bir adet de index.html barındırıyor 
 "Kodluyoruz Eğitimi kapsamında açtığım ilk repo"
 
 # Installation
@@ -8,6 +9,27 @@
 Link:
 [Yazi](https://github.com/yig35it/kodluyoruzilkrepo/blob/main/README.md)
 ```
+# Usage
+Projeyi clonladıktan sonra visual studio programında açınız.
+Linux için 
+```
+cd kodluyoruzilkrepo
+code .
+```
+# Contributing
+
+Pull requestler kabul edilir. Büyük değişiklikler için,lütfen önce neyi değiştirmek istediğinizi tartışmak için bir konu yazınız 
+
+# License
+[MIT](https://www.linkedin.com/in/hakanyalcinkaya/)
+
+
+
+
+
+
+
+
 *** Değişiklikler yapıldı 
 ```
 # Başlık 1
