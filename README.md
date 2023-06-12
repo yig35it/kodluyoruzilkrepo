@@ -1,7 +1,7 @@
-# kodluyoruzilkrepo
+# KODLUYORUZ İLK REPO
 "Kodluyoruz Eğitimi kapsamında açtığım ilk repo"
 *** Değişiklikler yapıldı 
-```
+``
 # Başlık 1
 ## Başlık 2.. 
 
@@ -21,4 +21,4 @@ Image/Gorsel:
 ![Aciklama Bilgisi](url)
 ![Lorem Picsum](https://picsum.photos/200/300)
 
-```
+``
