@@ -1,6 +1,11 @@
 # KODLUYORUZ İLK REPO
-> Not:Bu repo kodluyoruz front- end eğitiminde oluşturduğumuz ilk repo ,içerisinde bir adet README dosyası bir adet de index.html barındırıyor 
+> Bu repo kodluyoruz front- end eğitiminde oluşturduğumuz ilk repo ,içerisinde bir adet README dosyası bir adet de index.html barındırıyor 
 "Kodluyoruz Eğitimi kapsamında açtığım ilk repo"
+
+# Installation
+>Öncelikle projeyi clonelayın(buraya sizin reponuzdan aldığınız link gelecek)
+```
+```
 *** Değişiklikler yapıldı 
 ```
 # Başlık 1
