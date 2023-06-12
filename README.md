@@ -7,7 +7,7 @@
 >Öncelikle projeyi clonelayın(buraya sizin reponuzdan aldığınız link gelecek)
 ```
 Link:
-[Yazi](https://github.com/yig35it/kodluyoruzilkrepo/blob/main/README.md)
+(gh repo clone yig35it/kodluyoruzilkrepo)
 ```
 # Usage
 Projeyi clonladıktan sonra visual studio programında açınız.
@@ -21,7 +21,7 @@ code .
 Pull requestler kabul edilir. Büyük değişiklikler için,lütfen önce neyi değiştirmek istediğinizi tartışmak için bir konu yazınız 
 
 # License
-[MIT](https://www.linkedin.com/in/hakanyalcinkaya/)
+[MIT](https://github.com/yig35it/kodluyoruzilkrepo/blob/main/LICENSE)
 
 
 
