@@ -17,9 +17,4 @@
   Sıradaki eleman 2, 4'ün sol çocuğu olacak.
 
 
-      7
-   /      \
-  5        8
- / \        \
-1   6        9
 ```
